@@ -1,17 +1,17 @@
-# React Chess
+# ChessMate
 
 <!-- [![Website](https://img.shields.io/website-up-down-green-red/http/reactchess.onrender.com.svg)](https://reactchess.onrender.com/) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Rimjhimv2/ReactChess/blob/main/LICENSE)
 
 ## Overview
 
-React Chess is a comprehensive chess application developed using the MERN stack (MongoDB, Express, React, Node.js). This project showcases full-stack development skills and modern web technologies to create an engaging and interactive chess platform.Key features include dynamic chess gameplay with accurate move validation, Stockfish integration for AI-driven opponent play, user authentication and profiles with game history and stats, real-time game updates, an intuitive and responsive React-based UI, backend and database management using Node.js, Express, and MongoDB, and additional enhancements like audio effects for moves, captures, and check/checkmate.
+ChessMate is a comprehensive chess application developed using the MERN stack (MongoDB, Express, React, Node.js). This project showcases full-stack development skills and modern web technologies to create an engaging and interactive chess platform.Key features include dynamic chess gameplay with accurate move validation, Stockfish integration for AI-driven opponent play, user authentication and profiles with game history and stats, real-time game updates, an intuitive and responsive React-based UI, backend and database management using Node.js, Express, and MongoDB, and additional enhancements like audio effects for moves, captures, and check/checkmate.
 
 ### Live Demo
 Check out the live application: [React Chess](https://reactchess-2mc2.onrender.com) 
 
 ### GitHub Repository
-Explore the code: [GitHub - Rimjhimv2/ReactChess](https://github.com/Rimjhimv2/ReactChess)
+Explore the code: [GitHub - Rimjhimv2/ReactChess](https://github.com/Rimjhimv2/ChessMate)
 
 
 ---
@@ -91,7 +91,7 @@ Explore the code: [GitHub - Rimjhimv2/ReactChess](https://github.com/Rimjhimv2/R
 
 1. **Clone the repository**
    ```bash
-  git clone https://github.com/Rimjhimv2/ReactChess.git
+  git clone https://github.com/Rimjhimv2/ChessMate.git
   cd ReactChess
 
    ```
